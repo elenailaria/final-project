@@ -1,0 +1,26 @@
+Aufgabe: Erstelle eine Webseite mit den gelernten Themen!
+Idee: Dir freigestellt, aber behaltete die Zeit im Auge.
+Tipp: Eine Webseite über ein Hobby/Dichselbst, etwas, das dich interessiert.
+Tipp: Nicht versuchen durch Zwang alle Themen vom Orientierungskurs einbauen, lieber eine klare strukturierte Seite.
+
+Projekt Ideen (Vorschläge):
+1. Resümee/Curriculum Vitae/ Lebenslauf Seite
+2. Landeseite (Landingpage, ist eine alleinstehende Seite, z.B. für den Zweck einer Marketing-Kampagne)
+3. Kleine Unternehmens/Firmenseite
+4. Band/Musik Webseite
+5. (Koch) Rezept Website
+6. Restaurant Seite
+7. Webseite über Herkunftsort oder Heimat (z.B. euer Geburtsland)
+8. Persönliches Portfolio (Schaukasten eigener Interessen und Leistungen)
+10. Touristische Seite
+11. Eine völlig andere Idee
+
+Es gilt auch für den Projekttag: Anwesenheitspflicht. (Fragen können gestellt werden).
+
+Präsentation:
+Screenshare in MS Teams (5 bis 10 Minuten pro Person)
+1. Erkläre deine Idee, worum geht es auf der Seite.
+2. Wie bist du herangegangen?
+3. Wie hast du dein Projekt in Code umgesetzt?
+4. Erzählt über eure Schwierigkeiten und eventuell, wie ihr sie überwunden habt!
+5. Ziehe ein Fazit: Was fandest du gut an, was nicht?
